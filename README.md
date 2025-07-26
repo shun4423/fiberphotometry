@@ -1,4 +1,4 @@
-## fiberphotometry
+## Fiberphotometry
 
 This code is primarily based on the following repository:
 
